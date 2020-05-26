@@ -1,0 +1,57 @@
+body {
+  background-color: white;
+  text-align: center;
+  margin: 0;
+}
+
+.content-wrap {
+  max-width: 500px;
+  width: 70%;
+  margin: 0 auto;
+  padding: 35px 0;
+}
+
+h1 {
+  font-size: 75px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+  font-size: 35px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title {
+  background-color: teal;
+  border: 1px solid teal;
+  margin-top: 0;
+}
+
+.Project {
+  border: 1px solid white;
+  margin-bottom: 0;
+  background-color: white;
+}
+
+.work {
+  border: 1px solid white;
+  margin-top: 0px;
+  background-color: white;
+}
+
+.schools {
+  border: 1px solid yellow;
+  margin-top: 0px;
+  background-color: yellow;
+}
+
+.socials {
+  border: 1px solid slategrey;
+  margin-top: 0px;
+  background-color: slategrey;
+}

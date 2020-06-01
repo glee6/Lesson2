@@ -12,17 +12,18 @@ body {
 }
 
 h1 {
-  font-size: 75px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 70px;
+  font-family: 'Tangerine', serif;
+  text-shadow: 2px 2px 8px #FF0000;
 }
 
 h2 {
-  font-size: 35px;
+  font-size: 40px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 25px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -54,4 +55,5 @@ h3 {
   border: 1px solid slategrey;
   margin-top: 0px;
   background-color: slategrey;
+  font-weight: normal;
 }
